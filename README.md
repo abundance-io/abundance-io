@@ -1,7 +1,7 @@
-### Heyy 👋
+### Heyy 🙃 
 
 <!--
-**abundance-io/abundance-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abundance-io/abundance-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 Here are some ideas to get you started:
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Anything that sounds cool really 
 
 ## 📈 Some Stats
-I guess in the end we're all statistics aren't we 
+we're all statistics aren't we 👀 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ch1n3du&theme=dark)](https://git.io/streak-stats)
 
 ![Ch1n3du's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch1n3du&show_icons=true&theme=dark)
