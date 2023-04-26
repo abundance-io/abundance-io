@@ -33,7 +33,7 @@ Anything that sounds cool really
 
 
 ## 📈 Stats
-we're all statistics aren't we 👀 
+we're all just statistics aren't we 👀 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abundance-io&theme=dark)](https://git.io/streak-stats)
 
