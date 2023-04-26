@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Rust 
 - Verilog 🫤
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1n3du&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 👯 I’m looking to collaborate on
@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 ## 📈 Some Stats
 we're all statistics aren't we 👀 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ch1n3du&theme=dark)](https://git.io/streak-stats)
 
-![Ch1n3du's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch1n3du&show_icons=true&theme=dark)
 
 
 
