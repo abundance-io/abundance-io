@@ -22,12 +22,12 @@
 - Verilog 
 - Nodejs(Typescript)
 - Express
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundance-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ## 👯 I’m looking to collaborate on
-- Anything that sounds cool really 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundance-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Anything that sounds cool really 
 
 
 
