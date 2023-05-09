@@ -23,7 +23,7 @@
 - Nodejs(Typescript)
 - Express
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundance-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundance-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
@@ -32,10 +32,10 @@ Anything that sounds cool really
 
 
 
-## 📈 Stats
+<!-- ## 📈 Stats
 we're all just statistics aren't we 👀 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abundance-io&theme=dark)](https://git.io/streak-stats)
 
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abundance-io&show_icons=true&theme=dark)
-  
+   -->
